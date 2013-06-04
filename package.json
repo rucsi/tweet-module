@@ -1,0 +1,15 @@
+{
+  "name": "Social.comCodingTask",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "express": "3.0.x",
+    "jade": "0.27.x"
+  }
+}
